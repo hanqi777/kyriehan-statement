@@ -10,9 +10,10 @@ Static policy and support pages for App Store metadata.
 - `apps/<app-slug>/privacy/index.html`: Privacy Policy URL
 - `apps/<app-slug>/support/index.html`: Support URL
 
-## Current app
+## Current apps
 
 - `SignMint`
+- `Outfit Ledger`
 
 ## Suggested GitHub Pages URLs
 
@@ -21,6 +22,9 @@ After publishing this folder to GitHub Pages, you can use URLs like:
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/signmint/privacy/`
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/signmint/support/`
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/signmint/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/outfit-ledger/privacy/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/outfit-ledger/support/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/outfit-ledger/`
 
 ## How to add another app
 
@@ -35,4 +39,3 @@ Replace any placeholder contact details that you want to customize, especially i
 
 - `apps/signmint/index.html`
 - `apps/signmint/support/index.html`
-
