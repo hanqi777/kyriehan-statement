@@ -14,6 +14,7 @@ Static policy and support pages for App Store metadata.
 
 - `SignMint`
 - `Outfit Ledger`
+- `Chroma Pocket`
 
 ## Suggested GitHub Pages URLs
 
@@ -25,6 +26,9 @@ After publishing this folder to GitHub Pages, you can use URLs like:
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/outfit-ledger/privacy/`
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/outfit-ledger/support/`
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/outfit-ledger/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/chroma-pocket/privacy/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/chroma-pocket/support/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/chroma-pocket/`
 
 ## How to add another app
 
