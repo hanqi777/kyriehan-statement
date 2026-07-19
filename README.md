@@ -15,6 +15,7 @@ Static policy and support pages for App Store metadata.
 - `SignMint`
 - `Outfit Ledger`
 - `Chroma Pocket`
+- `DailyLuck Oracle`
 
 ## Suggested GitHub Pages URLs
 
@@ -29,6 +30,9 @@ After publishing this folder to GitHub Pages, you can use URLs like:
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/chroma-pocket/privacy/`
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/chroma-pocket/support/`
 - `https://<your-github-username>.github.io/kyriehan-statement/apps/chroma-pocket/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/dailyluck-oracle/privacy/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/dailyluck-oracle/support/`
+- `https://<your-github-username>.github.io/kyriehan-statement/apps/dailyluck-oracle/`
 
 ## How to add another app
 
